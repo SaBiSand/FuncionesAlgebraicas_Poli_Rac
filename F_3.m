@@ -34,7 +34,7 @@ text(-0,-10,strcat('\fontsize{20}Funcion exponencial'));
 
 % Salidas
 f = 'f(x)=x^2/3';
-e = 'exponencial';
+e = 'exponencial y no es polinomica';
 e1 = 'f(0)=0 (0,0) x=0';
 
 disp('');
